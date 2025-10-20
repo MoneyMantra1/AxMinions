@@ -111,6 +111,10 @@ class LumberMinionType : MinionType("lumber", AxMinionsPlugin.INSTANCE.getResour
                 Material.MANGROVE_PROPAGULE
             }
 
+            "PALE_OAK_LOG" -> {
+                Material.PALE_OAK_SAPLING
+            }
+            
             "CHERRY_LOG" -> {
                 Material.CHERRY_SAPLING
             }
